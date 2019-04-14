@@ -1,0 +1,14 @@
+Package: foofactors
+Title: Make it easier to work with factors
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Amanda",
+           family = "Gadrow",
+           role = c("aut", "cre"),
+           email = "amanda@rstudio.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Make it easier to work with factors. Not sure what we're doing here yet.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
