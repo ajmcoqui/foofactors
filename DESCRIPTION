@@ -8,7 +8,10 @@ Authors@R:
            email = "amanda@rstudio.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Make it easier to work with factors. Not sure what we're doing here yet.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
+URL: https://github.com/ajmcoqui/foofactors
+BugReports: https://github.com/ajmcoqui/foofactors/issues
+Roxygen: list(markdown = TRUE)
